@@ -2,7 +2,7 @@
 // by bringing Arrays into play
 
 // Main class 
-class GFG {
+class sort {
 
     // Main driver method
     public static void main(String[] args)
